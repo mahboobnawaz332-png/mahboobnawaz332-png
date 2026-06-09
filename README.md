@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 I'm Mahboob Nawaz
 
-<!--
-**mahboobnawaz332-png/mahboobnawaz332-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+💻 I'm a passionate **Python Developer, Data Analyst, Web Developer & AI Enthusiast**  
+🎯 I love building solutions and helping people grow in their careers  
 
-Here are some ideas to get you started:
+📍 Location: Lucknow (Vikas Nagar, Adil Nagar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Python 🐍  
+- SQL 🗄️  
+- Power BI 📊  
+- Web Development 🌐  
+
+---
+
+## 📚 Currently Learning
+- Full Stack Development  
+- Data Structures & Algorithms (DSA)  
+- Advanced Python  
+- JavaScript  
+
+---
+
+## 🤝 What I Do
+🔍 Helping job seekers find opportunities  
+📈 Sharing knowledge and career guidance  
+
+---
+
+## 📫 Contact Me
+📧 Email: **mahboobnawaz332@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/mahboob-nawaz  
+
+---
+
+## ⚡ Fun Fact
+💡 I believe consistency + learning = success 🚀
